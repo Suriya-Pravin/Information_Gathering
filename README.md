@@ -31,7 +31,9 @@ http://www.whois.com/whois website to get detailed information about a domain na
 ![1)](https://github.com/user-attachments/assets/3a3d601f-1cd8-4b4e-9583-81d8d3a2493f)
 
 ### Finding IP address:
-Ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
+Ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of saveetha.ac.in.
+
+
 ![2)](https://github.com/user-attachments/assets/a4d9b8da-aa2c-4bc8-9d05-db1cb0d78baa)
 
 
@@ -42,7 +44,9 @@ Finding Hosting Company and get further detail by using ip2location.com website.
 
 
 ### History of the website:
+
 https://web.archive.org/
+
 ![4)](https://github.com/user-attachments/assets/82a2294e-3ee6-4ffb-a8fb-13c4143d44fc)
 
 
