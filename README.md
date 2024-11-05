@@ -1,7 +1,7 @@
-### Date: 11-09-2024
-# Information_Gathering
+### Date: 26-08-2024
+# Ex-2: Information_Gathering
 
-# AIM:
+## AIM:
 
 To perform information gathering techniques using kali linux 
 
